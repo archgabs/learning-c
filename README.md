@@ -24,5 +24,5 @@ This repository is meant to be some kind of code library to my colleagues at **S
 ## Minor Details
 
 1. This repository is not under control or influence of **SENAC**, nor it's their project or related to them.
-2. This repository may contain erros, as it is a learning repo.
+2. This repository may contain errors, as it is a learning repo.
 3. Languages we'll respond: English, Brazillian Portuguese, Portuguese & Spanish. Any other language may not have their question answered.
