@@ -77,6 +77,9 @@ int tabBackspaceBackslashToUnicode(){
 int main(){
 	// blankTabsNewlinesCounter();
 	// multipleBlanksToOne();
-	tabBackspaceBackslashToUnicode();
+	// tabBackspaceBackslashToUnicode();
+	/*
+	Uncomment one of these methods to unleash the Exercises.	
+	*/
 	return 0;
 }
