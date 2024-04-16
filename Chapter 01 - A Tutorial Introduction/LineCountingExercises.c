@@ -47,7 +47,8 @@ int multipleBlanksToOne(){
 
 	return 0;
 }
-int tabBackspaceBackslashToUnicode(){
+
+void tabBackspaceBackslashToUnicode(){
 	#define tab '\t'
 	#define backspace '\b'
 	#define backslash '\\'
@@ -71,7 +72,6 @@ int tabBackspaceBackslashToUnicode(){
         }
 	}
 
-	return 0;
 }
 
 int main(){
